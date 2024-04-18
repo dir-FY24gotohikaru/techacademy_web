@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<!--html要素のlang="ja"属性を指定すると、
+このHTML文書は日本語で書かれていることを示す-->
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>TechAcademy KITCHEN</title>
+    </head>
+    <body>
+    </body>
+</html>
